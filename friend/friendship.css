@@ -1,0 +1,8 @@
+.para1 {
+    background-color: rgb(9, 96, 96);
+}
+.para {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
